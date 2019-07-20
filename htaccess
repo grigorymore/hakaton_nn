@@ -1,0 +1,15 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page4502691.html
+
+RewriteEngine On
+
+RewriteRule ^autobat$ page4502691.html [NC]
+RewriteRule ^autobat/$ page4502691.html [NC]
+
+RewriteRule ^test1$ page6639590.html [NC]
+RewriteRule ^test1/$ page6639590.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/img/tildafavicon.ico [R=302,L]
+
