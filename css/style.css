@@ -31,7 +31,7 @@ font-weight: normal;
 font-style: normal;
 }
 @font-face{
-font-family: 'generalFont';
+font-family: 'FuturaPT';
 src: url('../files/fonts/ALS Ekibastus Bold.otf') format('opentype'),
 font-weight: bold;
 font-style: bold;
@@ -1257,7 +1257,7 @@ label.mt10.valid {
 }
 
 .home-alt .welcome-text-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/home/home_bg.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/home/home_bg0.png") no-repeat scroll center center / cover;
 }
 
 .home-alt .welcome-area {
@@ -1336,7 +1336,7 @@ label.mt10.valid {
 }
 
 .home-alt .about-bottom-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/bg-layers/about_bg_layers_3.png") no-repeat scroll left top / auto 100%;
+    background: rgba(0, 0, 0, 0) url("../imagesg/bg-layers/about_bg_layers_3.png") no-repeat scroll left top / auto 100%;
     background-position: 0px 0px;
     background-repeat: repeat-x;
     -webkit-animation: animatedBackground 10s linear infinite alternate;
@@ -1365,7 +1365,7 @@ label.mt10.valid {
 }
 
 .testmonial-and-tem-box .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/testmonial/testmonial_bg.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../images/testmonial/testmonial_bg.png") no-repeat scroll center center / cover;
 }
 
 
@@ -1398,7 +1398,7 @@ label.mt10.valid {
 }
 
 .home-alt .footer-top-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assets/img/bg-layers/subscriber-bg.png") no-repeat scroll center center / contain;
+    background: rgba(0, 0, 0, 0) url("../images/bg-layers/subscriber-bg.png") no-repeat scroll center center / contain;
 
     background-repeat: repeat-x;
     -webkit-animation: animatedBackground 10s linear infinite alternate;
