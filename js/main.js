@@ -20,7 +20,7 @@ jQuery(document).on('ready', function ($) {
         }, 1500, "easeInOutExpo");
         event.preventDefault();
     });
-    
+
     /*----------------------------
         MOBILE & DROPDOWN MENU
     ------------------------------*/
@@ -246,7 +246,7 @@ jQuery(document).on('ready', function ($) {
             }
         });
     }
-    
+
     /*--------------------------
         FACT COUNTERING
     ---------------------------*/
@@ -264,7 +264,7 @@ jQuery(document).on('ready', function ($) {
         PLACEHOLDER ANIMATION
     ----------------------------*/
     Placeholdem(document.querySelectorAll('[placeholder]'));
-    
+
 }(jQuery));
 
 jQuery(window).on('load', function () {

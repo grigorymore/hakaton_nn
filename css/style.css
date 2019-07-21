@@ -24,6 +24,30 @@ Version: 1.0
     15. PRICE AERA
     16. HOME THREE
 ----------------------------------------------------------------------------------------*/
+@font-face{
+font-family: 'FuturaPT';
+src: url('../files/fonts/ALS Ekibastus Regular.otf') format('opentype'),
+font-weight: normal;
+font-style: normal;
+}
+@font-face{
+font-family: 'generalFont';
+src: url('../files/fonts/ALS Ekibastus Bold.otf') format('opentype'),
+font-weight: bold;
+font-style: bold;
+}
+@font-face{
+font-family: 'generalFont';
+src: url('../files/fonts/ALS Ekibastus Heavy.otf') format('opentype'),
+font-weight: heavy;
+font-style: heavy;
+}
+@font-face{
+font-family: 'generalFont';
+src: url('../files/fonts/ALS Ekibastus Black.otf') format('opentype'),
+font-weight: black;
+font-style: black;
+}
 
 /*----------------------------
     1.1. WELCOME TEXT AREA
